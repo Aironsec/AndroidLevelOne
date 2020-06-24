@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Probe</string>
+    <string name="textHello">Hello</string>
+    <string name="checkbox">Connect</string>
+</resources>
